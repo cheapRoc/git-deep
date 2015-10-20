@@ -5,7 +5,7 @@ autoload colors && colors
 _nfo_="traverse down nested directories and pull/fetch all the git repos found"
 _ver_="v0.3.0"
 _prg_="%{$fg_bold[blue]%}$(basename $0)%{$reset_color%}"
-_cpy_="$_ver_ -- (c) 2014 Copyright, Justin Reagor <cheapRoc> BSD"
+_cpy_="$_ver_ -- (c) 2014 Copyright, Justin Reagor <cheapRoc> MIT"
 _dry_=0
 
 log_op() {
